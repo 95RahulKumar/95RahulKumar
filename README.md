@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate FullStack developer From Varanasi,India</h3>
+<h3 align="center">A passionate FullStack developer @Atai Labs,Hyderabad</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:8840476418</h3>
 <p align="left">
 </p>
 
